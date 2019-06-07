@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: 山菌栽培一号 大棚
 # 描述/签名
-description: 一个可以fork的博客
+description: www我就试着搭搭看
 
 #
 # 下面的设定都是可选的
@@ -36,7 +36,7 @@ paginate: 8
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/highcamp
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: fromendworld@outlook.com 
@@ -53,7 +53,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2019 社畜修习中（一放假就无聊人也是很贱啊
 
 # 输入Disqus shortname，即可添加评论区，细节可阅读文档。
 disqus: loffer #shortname
