@@ -5,7 +5,7 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: 山菌栽培一号 大棚
+name: 山菌栽培一号大棚
 # 描述/签名
 description: www我就试着搭搭看
 
@@ -39,14 +39,13 @@ footer-links:
   weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/highcamp
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
+  rss: 随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
